@@ -1,1 +1,1 @@
-#include "../src/qxpsimpl.h"
+#include "qxpsimpl.h"

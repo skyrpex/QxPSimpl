@@ -1,9 +1,10 @@
 #ifndef QXPSIMPL_H
 #define QXPSIMPL_H
 
+#include <qxpsimpl_global.h>
 #include <QPolygonF>
 
-class QxPSimpl
+class QXPSIMPL_EXPORT QxPSimpl
 {
 public:
   static void simplifyNthPoint(QPolygonF &polygon, unsigned int n);
