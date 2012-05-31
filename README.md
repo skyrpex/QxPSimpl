@@ -8,6 +8,11 @@ How to use
 
 You must include QxPSimpl.pri to your .pro file.
 
+Repository
+----------
+
+You can get the current development version from the [git repository](https://github.com/Skyrpex/QxPSimpl).
+
 PSimpl
 -------
 
