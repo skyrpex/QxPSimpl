@@ -9,6 +9,6 @@ SOURCES += \
 
 HEADERS  += \
     $$PWD/include/QxPSimpl \
-    $$PWD/src/qxpsimpl.h
+    $$PWD/include/qxpsimpl.h
 
 INCLUDEPATH += $$PWD/include
